@@ -1,2 +1,2 @@
 # Java_Tutorials
-Complete JAVA
+Complete JAVA course
